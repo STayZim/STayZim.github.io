@@ -80,7 +80,8 @@ body {
         "pac eye bus"
         "license license license";
     gap: 20px; 
-    height: 100vh;    
+    height: 100vh; 
+    width: 100%;
 }
 
 div{
