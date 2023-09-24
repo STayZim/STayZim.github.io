@@ -1,5 +1,3 @@
-@media screen and (max-width: 481px){
-    
 body {   
     font-family: 'Roboto', sans-serif;
     background-color: transparent;    
@@ -217,4 +215,4 @@ img {
     border-color: bisque;
     background-image: linear-gradient(rgb(43, 15, 11),rgb(141, 72, 63));
 }
-}
+
