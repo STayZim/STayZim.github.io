@@ -71,10 +71,10 @@ body {
     display: block;
 }
 
-/*img {
+img {
     height: 100%;
     width: 100%;
-}*/
+}
 
 .heading{
     display: grid;
